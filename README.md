@@ -1,1 +1,1 @@
-# 3D_Chess_Project
+# C++_Project
