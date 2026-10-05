@@ -1,5 +1,7 @@
 # Fullerene Chess Engine ($C_{72}$)
 
+![GAME](https://sakk.itk.ppke.hu/)
+
 Egy 3D-s, nem-euklideszi sakkváltozat C++ alapú játékmotorja, amely egy 72 mezős csonkított ikozaéder ($C_{72}$ fullerén) topológiáján működik. A projekt célja a matematikai gráfelmélet és az objektumorientált játékfejlesztés ötvözése, egy determinisztikus játéktér és szabályrendszer megalkotásával.
 
 ## 🏗️ Szoftverarchitektúra
