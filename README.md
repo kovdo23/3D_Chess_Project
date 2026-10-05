@@ -1,8 +1,5 @@
 # Fullerene Chess Engine ($C_{72}$)
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
 Egy 3D-s, nem-euklideszi sakkváltozat C++ alapú játékmotorja, amely egy 72 mezős csonkított ikozaéder ($C_{72}$ fullerén) topológiáján működik[cite: 10, 11]. A projekt célja a matematikai gráfelmélet és az objektumorientált játékfejlesztés ötvözése, egy determinisztikus játéktér és szabályrendszer megalkotásával.
 
 ## 🏗️ Szoftverarchitektúra
